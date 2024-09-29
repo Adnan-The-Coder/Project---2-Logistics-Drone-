@@ -1,0 +1,46 @@
+# Neodymium N45UH Motor Specifications
+
+## Overview
+This high-performance motor is designed for a variety of multi-rotor and UAS applications, featuring a universal mounting pattern for easy installation.
+
+## Models
+- **Mounting Patterns:**
+  - M5 x ф55mm
+  - M5 x ф70mm
+  - M6 x ф70mm
+
+## Finish
+- **Endbells:** Clear anodize, mirror-polish CNC gloss
+- **Central Core:** Black electro-plate, CNC gloss
+
+## Full Specifications
+
+| Specification                         | Value                  |
+|---------------------------------------|------------------------|
+| **Kv (Motor Velocity Constant)**      | 105 RPM/V              |
+| **Kt (Motor Torque Constant)**        | 0.0909 Nm/A            |
+| **Km (Motor Constant)**               | 0.7976 Nm/√(W)         |
+| **Maximum Continuous Current**        | 150 A                  |
+| **Maximum Continuous Power**          | 9135 W (180 s) (60.9 V)|
+| **Voltage Range**                     | 22.2 V (6S LiPo) - 60.9 V (14S LiHV) |
+| **Io (@10V)**                         | 3.1 A                  |
+| **Rm (Wind Resistance)**              | 0.013 Ω                |
+| **Stator Poles**                      | 36 (36S42P, HE)        |
+| **Magnetic Poles**                    | 42 (36S42P, HE)        |
+| **Bearings**                          | Triple, 6902-2RS/7902C/7202C |
+| **Mount Pattern**                     | M5 x ф55 mm, M6/M5 x ф70 mm |
+| **Stator Class**                      | 13218, 0.2 mm Japanese |
+| **Shaft Diameter**                    | ф10 mm (ф15 mm Internal) |
+| **Shaft Length**                      | 9.5 mm                 |
+| **Motor Diameter**                    | ф150.2 mm              |
+| **Motor Rotor Inertia**               | 21.865 kg*cm²         |
+| **Motor Length**                      | 55.2 mm                |
+| **Motor Weight**                      | 2015 g (2120 g with Wires/Bullets) |
+| **Propeller Blade Size**              | Up to 35.5" DP        |
+| **Motor Advance Timing**              | 22° - 30°              |
+| **Motor Drive Frequency**             | 16 - 32 kHz           |
+| **Wire Gauge**                        | 10 AWG                |
+
+## Notes
+- The maximum continuous power is rated for a duration of 180 seconds at 60.9 V.
+- Ensure to follow appropriate safety guidelines during installation and operation.
